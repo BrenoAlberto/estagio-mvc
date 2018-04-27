@@ -8,6 +8,6 @@
   // App Root
   define('APPROOT', dirname(dirname(__FILE__)));
   // URL Root
-  define('URLROOT', 'http://localhost/Estagio');
+  define('URLROOT', 'http://localhost/estagio-mvc');
   // Site Name
   define('SITENAME', 'ConstruSite');
